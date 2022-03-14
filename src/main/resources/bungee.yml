@@ -1,0 +1,3 @@
+name: LunarStar
+version: '${project.version}'
+main: Main
